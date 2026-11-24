@@ -15,6 +15,7 @@
 //
 // This entry's video: an 18 s vertical TikTok ad for make.fun, posted publicly from @pudinwe as
 // https://www.tiktok.com/@pudinwe/video/7711585567854710036, caption carrying the $500 bounty line and the play code.
+// Ranking is by the video's real TikTok views at the deadline (2026-11-24T19:00:00Z); likes and comments do not count.
 //
 // Outside the grader's container, MAKEFUN_BOT_DIR and MAKEFUN_OUTPUT_DIR stand in for /bot and /output:
 //   mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
