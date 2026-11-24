@@ -13,6 +13,9 @@
 // The VIDEO.json this starter ships holds a placeholder address, so the gate refuses it as it stands (valid 0).
 // Replace it with your video's address before you submit.
 //
+// This entry's video: an 18 s vertical TikTok ad for make.fun, posted publicly from @pudinwe as
+// https://www.tiktok.com/@pudinwe/video/7711585567854710036, caption carrying the $500 bounty line and the play code.
+//
 // Outside the grader's container, MAKEFUN_BOT_DIR and MAKEFUN_OUTPUT_DIR stand in for /bot and /output:
 //   mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 
